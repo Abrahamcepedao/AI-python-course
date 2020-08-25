@@ -1,0 +1,105 @@
+Do famous people tend to influence you?
+1
+2
+3
+4
+5
+authority
+Do emotions control you more than you control them?
+1
+2
+3
+4
+5
+emotion
+Do you consider yourself highly analytical?
+1
+2
+3
+4
+5
+analytical
+Do you tend to follow celebrity-style fashion?
+1
+2
+3
+4
+5
+authority
+Do you sometimes cry for somewhat meaningless reasons?
+1
+2
+3
+4
+5
+emotion
+Do you find math easy at school?
+1
+2
+3
+4
+5
+analytical
+Do you follow more than 20 famous people on social media?
+1
+2
+3
+4
+5
+authority
+Do you tend to cry when you watch emotional scenes in movies?
+1
+2
+3
+4
+5
+emotion
+Would you rather spend time coming up with a detailed plan than improvise?
+1
+2
+3
+4
+5
+analytical
+Do you find the opinions of celebrities valid?
+1
+2
+3
+4
+5
+authority
+Would you provide companionship to a stranger would appears deeply sad?
+1
+2
+3
+4
+5
+emotion
+Do you trust scientific facts?
+1
+2
+3
+4
+5
+analytical
+Do you intensively idolize more than three famous people?
+1
+2
+3
+4
+5
+authority
+Can you easily empathize with an extremely dreary individual?
+1
+2
+3
+4
+5
+emotion
+Do you enjoy computing data?
+1
+2
+3
+4
+5
+analytical
